@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Exercise Bike</name>
+   <tag></tag>
+   <elementGuidId>18213f2e-f905-465f-aea2-dcc3ecf1165c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='plp-container']/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.style-prefix-199tv3s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ceb990f2-e427-4fd1-934c-cfa894861421</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-prefix-199tv3s</value>
+      <webElementGuid>8d7f99c4-123d-4706-a6d5-16b88d4fbe07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Exercise Bike</value>
+      <webElementGuid>b526664c-5c6d-492d-a6d4-dc82591090f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;plp-container&quot;)/div[@class=&quot;style-prefix-k008qs&quot;]/div[@class=&quot;style-prefix-gl4gha&quot;]/div[@class=&quot;style-prefix-nvr5no&quot;]/label[@class=&quot;style-prefix-199tv3s&quot;]</value>
+      <webElementGuid>f5b68aaa-5679-4ce5-9afc-4f2fda825570</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='plp-container']/div/div/div/label</value>
+      <webElementGuid>983ca851-70a0-4119-897e-0fd4e6a238c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gym Equipments'])[1]/following::label[1]</value>
+      <webElementGuid>4db311f9-30ff-4f11-b367-06d8e4c02eb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Premium Strength'])[1]/following::label[1]</value>
+      <webElementGuid>2bb7daa0-6289-4984-96de-c8d2a5120189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spin Bike'])[1]/preceding::label[1]</value>
+      <webElementGuid>3b412244-5207-45af-8306-9b2395f58d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CULTSPORT'])[1]/preceding::label[2]</value>
+      <webElementGuid>41ef6c94-93b4-4a5c-b6c3-513fe4c9b634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Exercise Bike']/parent::*</value>
+      <webElementGuid>b3925683-2bb4-4cae-8d01-c5ec6cffa5a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>e28c3ea7-edd8-44b4-b881-271085879eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Exercise Bike' or . = 'Exercise Bike')]</value>
+      <webElementGuid>7d95e6ec-3f39-4b63-9e5d-58bdf02df7cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

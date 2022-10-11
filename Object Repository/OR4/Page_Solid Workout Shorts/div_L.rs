@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_L</name>
+   <tag></tag>
+   <elementGuidId>328abc55-9c00-4b6c-9159-4cf5fc04b79d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-layout']/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7dab854f-291d-40b4-8a8e-4cb9ec7d01af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>L</value>
+      <webElementGuid>ed216a83-648e-4c8b-9eab-bbd8f5f41ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-layout&quot;)/div[@class=&quot;clearfix style-prefix-1ytu7n5&quot;]/div[@class=&quot;style-prefix-say49q&quot;]/div[@class=&quot;gear-product-detail&quot;]/div[@class=&quot;description-container&quot;]/div[@class=&quot;info&quot;]/div[@class=&quot;product-size&quot;]/div[@class=&quot;size-container&quot;]/div[@class=&quot;&quot;]</value>
+      <webElementGuid>c8ebacd5-bba1-4edd-9b32-ab7b2e79dafd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-layout']/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div[3]</value>
+      <webElementGuid>f6ab1888-d4bf-40b3-9da6-e928cbb8ac54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/following::div[1]</value>
+      <webElementGuid>dafc2f43-30ee-494d-9d94-d43ba9bbaad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/following::div[2]</value>
+      <webElementGuid>89bc1389-d595-4587-a43b-0dff97a309c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XL'])[1]/preceding::div[1]</value>
+      <webElementGuid>96495056-77fc-4cca-ac83-91cb679c14fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XXL'])[1]/preceding::div[2]</value>
+      <webElementGuid>b1fc4064-044e-4894-b0ff-b35d307ea306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='L']/parent::*</value>
+      <webElementGuid>68b8ad7a-4752-4b5c-bc34-1c68d2b8ac61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]</value>
+      <webElementGuid>dc7d49d8-d7e2-49ca-9a54-b599ca40e5dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'L' or . = 'L')]</value>
+      <webElementGuid>94d9109a-a8d3-4829-b94c-e298a530129c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

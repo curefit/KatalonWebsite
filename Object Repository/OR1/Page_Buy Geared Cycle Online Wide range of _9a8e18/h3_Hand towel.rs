@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Hand towel</name>
+   <tag></tag>
+   <elementGuidId>1b26b490-1ef4-43be-b79e-8205f6557c14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-layout']/div/div/div[2]/div/div/div/ul/li[7]/ul/li/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>6bb21f3f-2052-4134-a684-8ba5cdb56a14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-prefix-1mapn9e</value>
+      <webElementGuid>8d2d79e5-8dc2-48cf-825f-bb9dfe68ca42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hand towel</value>
+      <webElementGuid>3a65c3bc-3384-43af-858c-71c89162ea57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-layout&quot;)/div[@class=&quot;style-prefix-1txy79u&quot;]/div[@class=&quot;style-prefix-1lllrr&quot;]/div[@class=&quot;style-prefix-1oecpj9&quot;]/div[@class=&quot;style-prefix-1u4kqgz&quot;]/div[1]/div[1]/ul[@class=&quot;style-prefix-1v4kdgm&quot;]/li[@class=&quot;style-prefix-dkgre4&quot;]/ul[@class=&quot;superCategoryWrapper style-prefix-0&quot;]/li[@class=&quot;categoryItem style-prefix-0&quot;]/h3[@class=&quot;style-prefix-1mapn9e&quot;]</value>
+      <webElementGuid>6013d3c0-194d-4108-909c-5ab572344889</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-layout']/div/div/div[2]/div/div/div/ul/li[7]/ul/li/h3</value>
+      <webElementGuid>7294b9ab-fa0d-48a4-ad74-cc02aa6622b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessories'])[1]/following::h3[1]</value>
+      <webElementGuid>a77a53c6-1006-4b22-a3b8-1d658ea3e682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kids Cycle'])[1]/following::h3[2]</value>
+      <webElementGuid>6bc7fd26-07e7-4198-bf7c-d17210c86008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workout Gloves'])[1]/preceding::h3[1]</value>
+      <webElementGuid>cbdebf9a-982a-4f57-bdb7-a4e10ce8863c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mask'])[1]/preceding::h3[2]</value>
+      <webElementGuid>23dd24fd-af16-4f22-b13e-e5a89d627c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hand towel']/parent::*</value>
+      <webElementGuid>272e2284-2016-431b-a021-ed0e482153ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/ul/li/h3</value>
+      <webElementGuid>ad5bad12-7de7-4c44-8037-959c9678608c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Hand towel' or . = 'Hand towel')]</value>
+      <webElementGuid>480f5232-898d-4167-b3be-56a9d63cb5e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

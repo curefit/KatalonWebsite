@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ALL</name>
+   <tag></tag>
+   <elementGuidId>4e0e95b8-7896-41bb-90e2-618a3e41c687</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-layout']/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e789051-7258-4d9f-9aa5-4c920b54b3bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected-size </value>
+      <webElementGuid>3e41d3a7-d657-4fa2-9d7f-7aab8951411d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ALL</value>
+      <webElementGuid>2fb05fc2-7c34-4762-8550-b82bd4dd274d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-layout&quot;)/div[@class=&quot;clearfix style-prefix-1ytu7n5&quot;]/div[@class=&quot;style-prefix-say49q&quot;]/div[@class=&quot;gear-product-detail&quot;]/div[@class=&quot;description-container&quot;]/div[@class=&quot;info&quot;]/div[@class=&quot;product-size&quot;]/div[@class=&quot;size-container&quot;]/div[@class=&quot;selected-size&quot;]</value>
+      <webElementGuid>a1d467b3-d5b5-4dc2-904c-7393a77ceb01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-layout']/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>d63174b2-cddb-4ad5-8082-6b9f4c7e13e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Size'])[1]/following::div[2]</value>
+      <webElementGuid>888b587e-dc67-4361-b52c-ffd0c6c70ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OFP-1001 Static Handle with Backrest Upright Stationary Exercise Bike'])[2]/following::div[9]</value>
+      <webElementGuid>64d3fb95-eefe-43ef-ac02-60cbc9324382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[1]/preceding::div[1]</value>
+      <webElementGuid>8f539f7d-83b2-4275-8767-68379cb8cf92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Now'])[1]/preceding::div[3]</value>
+      <webElementGuid>66ff6864-de25-4f58-adb6-e82087cf2bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ALL']/parent::*</value>
+      <webElementGuid>cbaf83d4-89c5-4c8c-8e28-d3ca7fcc8d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>8012cf93-f166-4efc-9ce6-3ddfef925c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ALL' or . = 'ALL')]</value>
+      <webElementGuid>8d268db1-576f-41b2-b8f0-c1e843e88bdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Nutrition  Wellness</name>
+   <tag></tag>
+   <elementGuidId>df490c62-d5d4-44e6-8cdd-eafdadf4e8b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-layout']/div/div/div[2]/div/div/div/ul/li[8]/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>5cca8e57-2b7a-48e9-9021-87b10933b5f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-prefix-lllm7f</value>
+      <webElementGuid>d1950488-df2c-4fd3-9e68-a8d10c580e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nutrition &amp; Wellness</value>
+      <webElementGuid>cea21e14-5241-4ad4-8f89-d1e2312d33b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-layout&quot;)/div[@class=&quot;style-prefix-1txy79u&quot;]/div[@class=&quot;style-prefix-1lllrr&quot;]/div[@class=&quot;style-prefix-1oecpj9&quot;]/div[@class=&quot;style-prefix-1u4kqgz&quot;]/div[1]/div[1]/ul[@class=&quot;style-prefix-1v4kdgm&quot;]/li[@class=&quot;style-prefix-dkgre4&quot;]/h3[@class=&quot;style-prefix-lllm7f&quot;]</value>
+      <webElementGuid>56c2a253-baea-405c-86ef-bb8e4fe7f229</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-layout']/div/div/div[2]/div/div/div/ul/li[8]/h3</value>
+      <webElementGuid>01c485b1-032f-45fe-9af4-8d7c7229cf84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yoga Mat'])[1]/following::h3[1]</value>
+      <webElementGuid>cb420f6d-8c5c-411c-b4be-be6fbfb76a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Socks'])[1]/following::h3[2]</value>
+      <webElementGuid>5a512d27-a0de-4d7c-ad65-caa619c51f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Care'])[1]/preceding::h3[1]</value>
+      <webElementGuid>da87352b-0cdb-478a-b781-ef123e0a9a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Protein'])[1]/preceding::h3[2]</value>
+      <webElementGuid>253f0692-9a50-4165-b387-5ecd73bf6ddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nutrition &amp; Wellness']/parent::*</value>
+      <webElementGuid>4081584c-5b05-41da-b99a-c74e7f17f4a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/h3</value>
+      <webElementGuid>7a85489d-f310-4a7d-b0bf-4546f4f21e96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Nutrition &amp; Wellness' or . = 'Nutrition &amp; Wellness')]</value>
+      <webElementGuid>503c3448-6f39-4c94-a5c3-0e499fc4eb55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

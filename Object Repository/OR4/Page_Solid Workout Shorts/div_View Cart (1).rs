@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_View Cart (1)</name>
+   <tag></tag>
+   <elementGuidId>f6c03f0c-d4e0-4ff9-91d2-9efb90a7fbbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-layout']/div[2]/div[3]/div/div/div[2]/div[3]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>85641f3c-ffbf-47b9-85dd-8cae59e6a8ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Cart (1)</value>
+      <webElementGuid>b548393c-015e-4457-9875-0ba04bf08f68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-layout&quot;)/div[@class=&quot;clearfix style-prefix-1ytu7n5&quot;]/div[@class=&quot;style-prefix-say49q&quot;]/div[@class=&quot;gear-product-detail&quot;]/div[@class=&quot;description-container&quot;]/div[@class=&quot;info&quot;]/div[@class=&quot;actions-container&quot;]/div[@class=&quot;add-to-cart&quot;]/div[1]</value>
+      <webElementGuid>0993c72f-037a-46ae-9059-91319cd6fb42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-layout']/div[2]/div[3]/div/div/div[2]/div[3]/div[2]/div</value>
+      <webElementGuid>6a2635a7-11b8-4e63-ae1d-97d6c9a846c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[1]/following::div[2]</value>
+      <webElementGuid>9acdb365-4b67-4037-8c22-35352d592862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XXL'])[1]/following::div[5]</value>
+      <webElementGuid>56ba3a87-8f0b-4908-b4f2-f106a66c7036</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRODUCT DETAILS'])[1]/preceding::div[2]</value>
+      <webElementGuid>1325d28d-8297-48fa-ba15-10661ea594a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Cart (1)']/parent::*</value>
+      <webElementGuid>20519063-39f3-41bf-8f12-c92e900d3d85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>6b0fcfdd-26de-441c-a6be-8cf45bb5b2f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'View Cart (1)' or . = 'View Cart (1)')]</value>
+      <webElementGuid>78fbad48-87f7-4525-9bc1-bb240e507879</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

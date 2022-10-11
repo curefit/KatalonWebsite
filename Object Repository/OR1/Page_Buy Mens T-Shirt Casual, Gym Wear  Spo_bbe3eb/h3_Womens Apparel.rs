@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Womens Apparel</name>
+   <tag></tag>
+   <elementGuidId>f9459bc7-bd8c-4519-92c6-b9fa259af2b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-layout']/div/div/div[2]/div/div/div/ul/li[4]/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>554dba42-e8a2-494e-8030-54e3aa7244db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-prefix-lllm7f</value>
+      <webElementGuid>4e747275-d7d2-4cd0-9014-2ebc3963810f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Women's Apparel</value>
+      <webElementGuid>8e6b052c-4354-4ab9-8f9c-58201d23fde2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-layout&quot;)/div[@class=&quot;style-prefix-1txy79u&quot;]/div[@class=&quot;style-prefix-1lllrr&quot;]/div[@class=&quot;style-prefix-1oecpj9&quot;]/div[@class=&quot;style-prefix-1u4kqgz&quot;]/div[1]/div[1]/ul[@class=&quot;style-prefix-1v4kdgm&quot;]/li[@class=&quot;style-prefix-dkgre4&quot;]/h3[@class=&quot;style-prefix-lllm7f&quot;]</value>
+      <webElementGuid>efdb5851-c706-4994-a5c7-c17313084d34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-layout']/div/div/div[2]/div/div/div/ul/li[4]/h3</value>
+      <webElementGuid>53880612-6f26-404d-82a0-183130cf93d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footwear'])[1]/following::h3[1]</value>
+      <webElementGuid>b6151cd5-bc32-4b8b-8820-16f67059c803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shorts'])[1]/following::h3[2]</value>
+      <webElementGuid>490f2456-38af-478e-be3c-6dd2baf00317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tshirt'])[1]/preceding::h3[1]</value>
+      <webElementGuid>29ba71d9-4b6e-4c7a-bc4a-80ca78807651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sports Bra'])[1]/preceding::h3[2]</value>
+      <webElementGuid>cf7d6827-f6aa-4461-8499-ecdebcfc04b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/h3</value>
+      <webElementGuid>5e7c513a-1333-46bd-894f-7a3830f3b3cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = concat(&quot;Women&quot; , &quot;'&quot; , &quot;s Apparel&quot;) or . = concat(&quot;Women&quot; , &quot;'&quot; , &quot;s Apparel&quot;))]</value>
+      <webElementGuid>e1be80a3-86eb-46d3-9a30-fde3b79e1aef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

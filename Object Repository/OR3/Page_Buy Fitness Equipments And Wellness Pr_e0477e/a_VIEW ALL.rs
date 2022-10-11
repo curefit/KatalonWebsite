@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_VIEW ALL</name>
+   <tag></tag>
+   <elementGuidId>b42f3a19-85c7-4a7e-a38d-72ea27ee79b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='segment-header']/section/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.more</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3f10c0c7-3b9f-4839-b89f-3d3baf36ac71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>more</value>
+      <webElementGuid>9dd21978-5c8e-4e46-8835-46c4bf7821f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/best-sellers?id=best-sellers&amp;pageName=best-sellers&amp;isDynamic=false</value>
+      <webElementGuid>e4dd5c6e-b31b-4d38-a196-a962869c1e87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VIEW ALL</value>
+      <webElementGuid>be538ab0-a1d9-4543-9241-5b091ed3ab0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;679de0d1-5c3c-4412-be1d-730c4458148d1399flydry_cotton2.20WEformfitfab-CS-tenant&quot;)/div[@class=&quot;clearfix&quot;]/div[@id=&quot;segment-header&quot;]/section[@class=&quot;title-section space-between&quot;]/div[@class=&quot;title false&quot;]/a[@class=&quot;more&quot;]</value>
+      <webElementGuid>fdb7a737-00ce-450e-b1e9-0f96a4f96f12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='segment-header']/section/div/a</value>
+      <webElementGuid>950ae138-88a6-4ead-a258-4da93c264fd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'VIEW ALL')]</value>
+      <webElementGuid>2297a2f6-ea4a-4f29-a9af-9b33a9a08b85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bestsellers'])[1]/following::a[1]</value>
+      <webElementGuid>e6e51fd0-e932-4818-9adb-4e2d6b6431d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gym Equipments'])[1]/following::a[4]</value>
+      <webElementGuid>24e4e9a7-6480-4cfb-9b16-0eb1bdb1d881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loved by Cult Members'])[1]/preceding::a[1]</value>
+      <webElementGuid>fafe7cd7-c2c3-4fe0-a2c5-383ad2139a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CULTSPORT'])[1]/preceding::a[1]</value>
+      <webElementGuid>bb09f242-3836-4be4-8ba0-1774986a3f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VIEW ALL']/parent::*</value>
+      <webElementGuid>e7ce9b41-7a6d-487e-841d-f9b34bbdf318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/best-sellers?id=best-sellers&amp;pageName=best-sellers&amp;isDynamic=false')]</value>
+      <webElementGuid>c73e15ef-3eb2-4ae4-be49-bb05c95c96cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/a</value>
+      <webElementGuid>0eb72424-8efe-4006-8942-e7d4de5cfc51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/best-sellers?id=best-sellers&amp;pageName=best-sellers&amp;isDynamic=false' and (text() = 'VIEW ALL' or . = 'VIEW ALL')]</value>
+      <webElementGuid>f93e5c64-3cc9-405c-80df-c99bf1481471</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

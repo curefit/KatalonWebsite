@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Loved by Cult Members_style-prefix-ehf45j</name>
+   <tag></tag>
+   <elementGuidId>df542400-02a9-41a5-9a91-785016607d47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='679de0d1-5c3c-4412-be1d-730c4458148d1399flydry_cotton2.20WEformfitfab-CS-tenant']/div/div[2]/div/div/div/i[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.style-prefix-ehf45j</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3aa9573f-2900-4a24-80d7-2520de46ea58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-prefix-ehf45j</value>
+      <webElementGuid>56d19bb5-c194-4f0c-b947-a695f8e77ca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;679de0d1-5c3c-4412-be1d-730c4458148d1399flydry_cotton2.20WEformfitfab-CS-tenant&quot;)/div[@class=&quot;clearfix&quot;]/div[@class=&quot;container content style-prefix-1v6lej7&quot;]/div[1]/div[@class=&quot;style-prefix-1ylf8ir&quot;]/div[@class=&quot;style-prefix-1rwk8dw&quot;]/i[@class=&quot;style-prefix-ehf45j&quot;]</value>
+      <webElementGuid>415b37ec-f609-4bef-b4e6-25cfc21143c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='679de0d1-5c3c-4412-be1d-730c4458148d1399flydry_cotton2.20WEformfitfab-CS-tenant']/div/div[2]/div/div/div/i[2]</value>
+      <webElementGuid>0deff920-04df-4a5d-aa30-92576d5876b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i[2]</value>
+      <webElementGuid>a724479b-d02a-465c-9aee-ee50955bbea6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

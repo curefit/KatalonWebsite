@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Top Selling</name>
+   <tag></tag>
+   <elementGuidId>03fbf384-27e2-4e8e-88da-24e0bcd794c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-layout']/div/div/div[2]/div/div/div/ul/li/ul/li/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.style-prefix-1mapn9e</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>298946f7-71cf-459a-9d20-ba599053b9ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-prefix-1mapn9e</value>
+      <webElementGuid>3b337780-6197-44c2-98f0-b1ed63c4f957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Top Selling</value>
+      <webElementGuid>b159e47f-be0c-4f0c-94a0-d70e1e91ee71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-layout&quot;)/div[@class=&quot;style-prefix-1txy79u&quot;]/div[@class=&quot;style-prefix-1lllrr&quot;]/div[@class=&quot;style-prefix-1oecpj9&quot;]/div[@class=&quot;style-prefix-1u4kqgz&quot;]/div[1]/div[1]/ul[@class=&quot;style-prefix-1v4kdgm&quot;]/li[@class=&quot;style-prefix-dkgre4&quot;]/ul[@class=&quot;superCategoryWrapper style-prefix-0&quot;]/li[@class=&quot;categoryItem style-prefix-0&quot;]/a[@class=&quot;style-prefix-0&quot;]/h3[@class=&quot;style-prefix-1mapn9e&quot;]</value>
+      <webElementGuid>3085d2d0-f32b-449c-8697-e6591fa88266</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-layout']/div/div/div[2]/div/div/div/ul/li/ul/li/a/h3</value>
+      <webElementGuid>a3746ae5-97c3-4412-9f90-687b29eaa30e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best Sellers'])[1]/following::h3[1]</value>
+      <webElementGuid>00aecf24-1896-4413-bed6-2909c79a4de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Just Launched'])[1]/preceding::h3[1]</value>
+      <webElementGuid>981b7829-fa7d-4d01-9f38-892212e82e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Arrivals'])[1]/preceding::h3[2]</value>
+      <webElementGuid>69a6fb43-f931-4b80-a7f9-a53327a925d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Top Selling']/parent::*</value>
+      <webElementGuid>e68e5b5d-61ae-44e7-a02a-97b7271e2736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/h3</value>
+      <webElementGuid>c0fb2346-c5c1-4c52-b550-a537374a2585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Top Selling' or . = 'Top Selling')]</value>
+      <webElementGuid>af83980d-e3a0-40cb-803c-b6808971b3e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

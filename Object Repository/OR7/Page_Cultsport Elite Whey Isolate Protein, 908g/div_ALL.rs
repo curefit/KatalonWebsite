@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ALL</name>
+   <tag></tag>
+   <elementGuidId>30fd49e6-70fe-4a5a-adc2-eb90aeb2b239</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-layout']/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6ff28198-c6cc-4c10-b9f8-6ee8af525def</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected-size </value>
+      <webElementGuid>3f2b188f-83f5-4b46-8e5c-dd946b99abbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ALL</value>
+      <webElementGuid>15c44005-976b-40ef-9359-8c4a39433a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-layout&quot;)/div[@class=&quot;clearfix style-prefix-1ytu7n5&quot;]/div[@class=&quot;style-prefix-say49q&quot;]/div[@class=&quot;gear-product-detail&quot;]/div[@class=&quot;description-container&quot;]/div[@class=&quot;info&quot;]/div[@class=&quot;product-size&quot;]/div[@class=&quot;size-container&quot;]/div[@class=&quot;selected-size&quot;]</value>
+      <webElementGuid>ca03bf03-3fc3-422e-9718-a9bf481e3d4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-layout']/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>5d3c7bc1-4b0c-48b9-818e-39d8731698eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Size'])[1]/following::div[2]</value>
+      <webElementGuid>587cf738-f010-448e-ac42-0b996017c296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cultsport Elite Whey Isolate Protein, 908g'])[2]/following::div[9]</value>
+      <webElementGuid>7aa3bbf8-f5c0-4c3f-95e4-d223431f1cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[1]/preceding::div[1]</value>
+      <webElementGuid>a503106d-ea15-4251-a4b0-b4ded5713bc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Now'])[1]/preceding::div[3]</value>
+      <webElementGuid>f4fbea40-4ee7-43d4-b81b-7569d2f51f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ALL']/parent::*</value>
+      <webElementGuid>9bfb2ba0-b514-4691-9338-636274401356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>a9f72ccc-6fa0-4a49-b382-f652351e7bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ALL' or . = 'ALL')]</value>
+      <webElementGuid>318721cd-a1f6-48a6-9e37-77a116a4a992</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
